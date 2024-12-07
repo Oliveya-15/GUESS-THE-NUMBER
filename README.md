@@ -36,7 +36,7 @@ Here’s a preview of the game:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Oliveya-15/NumberGuessingGame_Python.git
+   git clone https://github.com/Oliveya-15/GUESS-THE-NUMBER.git
 2. **Install dependencies: Ensure you have Python installed. Install the required packages**: >> pip install pillow pyttsx3
 3. **Run the game: Start the game by running**: >> python gtn code.py
 
