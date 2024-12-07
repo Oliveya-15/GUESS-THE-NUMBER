@@ -42,11 +42,14 @@ Here’s a preview of the game:
 
 ---
 
-🎮 Game Controls
-Input Field: Enter your guessed number in the text field.
-Submit Button: Click to check your guess.
-Hint Button: Click to receive a clue about the number.
-Change Background Button: Randomly change the background color.
+"""
+### 🎮 Game Controls
+
+- **Input Field**: Enter your guessed number in the text field.
+- **Submit Button**: Click to check your guess.
+- **Hint Button**: Click to receive a clue about the number.
+- **Change Background Button**: Randomly change the background color.
+"""
 
 ---
 
